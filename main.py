@@ -6,7 +6,7 @@ keyboard = Controller()
 print('you have got 5 seconds to focus your input text space')
 time.sleep(5)
 
-f= open("words.txt","r")
+f= open("rutas.txt","r")
 
 contents =f.read()
 
